@@ -8,7 +8,7 @@
 A problem a day! Here is an index of all the problems.
 | Date | Link | Site | Title | <img src="https://avatars.githubusercontent.com/Aditya239" height=30 width=30> | <img src="https://avatars.githubusercontent.com/Blastoise" height=30 width=30> |
 | --- | --- | --- | --- | --- | --- |
-|2020-07-30| [Day 1](https://leetcode.com/problems/maximum-subarray/) | [LeetCode](https://leetcode.com/) | Maximum Subarray | :white_check_mark: | :hourglass_flowing_sand: |
+|2020-07-30| [Day 1](https://leetcode.com/problems/maximum-subarray/) | [LeetCode](https://leetcode.com/) | Maximum Subarray | :white_check_mark: | :white_check_mark: |
 |2020-07-31| [Day 2](https://leetcode.com/problems/matrix-block-sum/) | [LeetCode](https://leetcode.com/) | Matrix Block Sum | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
 ## Collaborator checklist
