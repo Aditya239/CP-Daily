@@ -12,7 +12,7 @@ A problem a day! Here is an index of all the problems.
 |2020-07-31| [Day 2](https://leetcode.com/problems/matrix-block-sum/) | [LeetCode](https://leetcode.com/) | Matrix Block Sum | :white_check_mark: | :white_check_mark: |
 |2020-08-01| [Day 3](https://leetcode.com/problems/plus-one/) | [LeetCode](https://leetcode.com/) | Plus One | :white_check_mark: | :white_check_mark: |
 |2020-08-02| [Day 4](https://leetcode.com/problems/multiply-strings/) | [LeetCode](https://leetcode.com/) | Multiply Strings | :white_check_mark: | :hourglass_flowing_sand: |
-|2020-08-03| [Day 5](https://leetcode.com/problems/house-robber/) | [LeetCode](https://leetcode.com/) | House Robber | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-03| [Day 5](https://leetcode.com/problems/house-robber/) | [LeetCode](https://leetcode.com/) | House Robber | :white_check_mark: | :hourglass_flowing_sand: |
 |2020-08-04| [Day 6](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [LeetCode](https://leetcode.com/) | Count Square Submatrices with All Ones | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |2020-08-05| [Day 7](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [LeetCode](https://leetcode.com/) | Minimum Cost Tree From Leaf Values | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |2020-08-06| [Day 8](https://leetcode.com/problems/counting-bits/) | [LeetCode](https://leetcode.com/) | Counting Bits | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
