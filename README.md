@@ -15,7 +15,7 @@ A problem a day! Here is an index of all the problems.
 |2020-08-03| [Day 5](https://leetcode.com/problems/house-robber/) | [LeetCode](https://leetcode.com/) | House Robber | :white_check_mark: | :white_check_mark: |
 |2020-08-04| [Day 6](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [LeetCode](https://leetcode.com/) | Count Square Submatrices with All Ones | :white_check_mark: | :hourglass_flowing_sand: |
 |2020-08-05| [Day 7](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [LeetCode](https://leetcode.com/) | Minimum Cost Tree From Leaf Values | :white_check_mark: | :hourglass_flowing_sand: |
-|2020-08-06| [Day 8](https://leetcode.com/problems/counting-bits/) | [LeetCode](https://leetcode.com/) | Counting Bits | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-06| [Day 8](https://leetcode.com/problems/counting-bits/) | [LeetCode](https://leetcode.com/) | Counting Bits | :hourglass_flowing_sand: | :white_check_mark: |
 |2020-08-07| [Day 9](https://leetcode.com/problems/binary-subarrays-with-sum/) | [LeetCode](https://leetcode.com/) | Binary Subarrays With Sum | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
 ## Collaborator checklist
