@@ -18,7 +18,7 @@ A problem a day! Here is an index of all the problems.
 |2020-08-06| [Day 8](https://leetcode.com/problems/counting-bits/) | [LeetCode](https://leetcode.com/) | Counting Bits | :white_check_mark: | :white_check_mark: |
 |2020-08-07| [Day 9](https://leetcode.com/problems/binary-subarrays-with-sum/) | [LeetCode](https://leetcode.com/) | Binary Subarrays With Sum | :white_check_mark: | :white_check_mark: |
 |2020-08-08| [Day 10](https://leetcode.com/problems/task-scheduler/) | [LeetCode](https://leetcode.com/) | Task Scheduler | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
-|2020-08-09| [Day 11](https://leetcode.com/problems/merge-intervals/) | [LeetCode](https://leetcode.com/) | Merge Intervals | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-09| [Day 11](https://leetcode.com/problems/merge-intervals/) | [LeetCode](https://leetcode.com/) | Merge Intervals | :white_check_mark: | :hourglass_flowing_sand: |
 |2020-08-10| [Day 12](https://www.hackerrank.com/contests/amazon/challenges/meeting-schedules/problem) | [HackerRank](https://www.hackerrank.com/) | Meeting Schedules | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |2020-08-11| [Day 13](https://icpc.kattis.com/problems/ship) | [ICPC Kattis](https://icpc.kattis.com/) | Ship Traffic | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
