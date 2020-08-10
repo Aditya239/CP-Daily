@@ -21,6 +21,10 @@ A problem a day! Here is an index of all the problems.
 |2020-08-09| [Day 11](https://leetcode.com/problems/merge-intervals/) | [LeetCode](https://leetcode.com/) | Merge Intervals | :white_check_mark: | :hourglass_flowing_sand: |
 |2020-08-10| [Day 12](https://www.hackerrank.com/contests/amazon/challenges/meeting-schedules/problem) | [HackerRank](https://www.hackerrank.com/) | Meeting Schedules | :white_check_mark: | :hourglass_flowing_sand: |
 |2020-08-11| [Day 13](https://icpc.kattis.com/problems/ship) | [ICPC Kattis](https://icpc.kattis.com/) | Ship Traffic | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-12| [Day 14](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [LeetCode](https://leetcode.com/) | Count Submatrices With All Ones | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-13| [Day 15](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3701) | [Online Judge](https://onlinejudge.org/) | 1260 - Sales | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-14| [Day 16](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [HackerRank](https://www.hackerrank.com/) | Sam and substrings | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|2020-08-15| [Day 17](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) [LeetCode](https://leetcode.com/) | Max Nesting Depth of 2 VPSs | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
 ## Collaborator checklist
 * When posing a problem/challenge for the day provide links to problem, online judge/site etc and title, and append :hourglass_flowing_sand:. Try and populate for the problems for the upcoming week in advance. This can very well be a 7 problems a week repository but that is the limit of flexibility - the idea is not to have too much backlog at any time.
