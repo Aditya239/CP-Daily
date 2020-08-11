@@ -19,7 +19,7 @@ A problem a day! Here is an index of all the problems.
 |20200807| [Day 9](https://leetcode.com/problems/binary-subarrays-with-sum/) | [LeetCode](https://leetcode.com/) | Binary Subarrays With Sum | :white_check_mark: | :white_check_mark: |
 |20200808| [Day 10](https://leetcode.com/problems/task-scheduler/) | [LeetCode](https://leetcode.com/) | Task Scheduler | :white_check_mark: | :hourglass_flowing_sand: |
 |20200809| [Day 11](https://leetcode.com/problems/merge-intervals/) | [LeetCode](https://leetcode.com/) | Merge Intervals | :white_check_mark: | :white_check_mark: |
-|20200810| [Day 12](https://www.hackerrank.com/contests/amazon/challenges/meeting-schedules/problem) | [HackerRank](https://www.hackerrank.com/) | Meeting Schedules | :white_check_mark: | :hourglass_flowing_sand: |
+|20200810| [Day 12](https://www.hackerrank.com/contests/amazon/challenges/meeting-schedules/problem) | [HackerRank](https://www.hackerrank.com/) | Meeting Schedules | :white_check_mark: | :white_check_mark: |
 |20200811| [Day 13](https://icpc.kattis.com/problems/ship) | [ICPC Kattis](https://icpc.kattis.com/) | Ship Traffic | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200812| [Day 14](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [LeetCode](https://leetcode.com/) | Count Submatrices With All Ones | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200813| [Day 15](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3701) | [Online Judge](https://onlinejudge.org/) | 1260 - Sales | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
