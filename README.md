@@ -23,7 +23,7 @@ A problem a day! Here is an index of all the problems.
 |20200811| [Day 13](https://icpc.kattis.com/problems/ship) | [ICPC Kattis](https://icpc.kattis.com/) | Ship Traffic | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200812| [Day 14](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [LeetCode](https://leetcode.com/) | Count Submatrices With All Ones | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200813| [Day 15](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3701) | [Online Judge](https://onlinejudge.org/) | 1260 - Sales | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
-|20200814| [Day 16](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [HackerRank](https://www.hackerrank.com/) | Sam and substrings | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200814| [Day 16](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [HackerRank](https://www.hackerrank.com/) | Sam and substrings | :hourglass_flowing_sand: | :white_check_mark: |
 |20200815| [Day 17](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [LeetCode](https://leetcode.com/) | Max Nesting Depth of 2 VPSs | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
 ## Collaborator checklist
