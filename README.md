@@ -25,6 +25,22 @@ A problem a day! Here is an index of all the problems.
 |20200813| [Day 15](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=247&page=show_problem&problem=3701) | [Online Judge](https://onlinejudge.org/) | 1260 - Sales | :white_check_mark: | :white_check_mark: |
 |20200814| [Day 16](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [HackerRank](https://www.hackerrank.com/) | Sam and substrings | :white_check_mark: | :white_check_mark: |
 |20200815| [Day 17](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [LeetCode](https://leetcode.com/) | Max Nesting Depth of 2 VPSs | :white_check_mark: | :hourglass_flowing_sand: |
+|20200816| [Day 18](https://leetcode.com/problems/the-skyline-problem/) | [LeetCode](https://leetcode.com/) | The Skyline Problem | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200817| [Day 19](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [LeetCode](https://leetcode.com/) | Search a 2D Matrix II | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200818| [Day 20](https://leetcode.com/problems/path-with-maximum-gold/) | [LeetCode](https://leetcode.com/) | Path With Maximum Gold | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200819| [Day 21](https://leetcode.com/problems/majority-element/) | [LeetCode](https://leetcode.com/) | Majority Element | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200820| [Day 22](https://leetcode.com/problems/recover-binary-search-tree/) | [LeetCode](https://leetcode.com/) | Recover Binary Search Tree | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200821| [Day 23](https://leetcode.com/problems/burst-balloons/) | [LeetCode](https://leetcode.com/) | Burst Balloons | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200822| [Day 24](https://leetcode.com/problems/binary-tree-cameras/) | [LeetCode](https://leetcode.com/) | Binary Tree Cameras | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200823| [Day 25](https://leetcode.com/problems/k-closest-points-to-origin/) | [LeetCode](https://leetcode.com/) | K Closest Points to Origin | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200824| [Day 26](https://leetcode.com/problems/trapping-rain-water/) | [LeetCode](https://leetcode.com/) | Trapping Rain Water | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200825| [Day 27](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [LeetCode](https://leetcode.com/) | Valid Permutations for DI Seq | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200826| [Day 28](https://leetcode.com/problems/trapping-rain-water-ii/) | [LeetCode](https://leetcode.com/) | Trapping Rain Water II | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200827| [Day 29](https://leetcode.com/problems/freedom-trail/) | [LeetCode](https://leetcode.com/) | Freedom Trail | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200828| [Day 30](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [LeetCode](https://leetcode.com/) | Longest Increasing Path in A Matrix | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200829| [Day 31](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [LeetCode](https://leetcode.com/) | Different Ways to Add Parantheses | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200830| [Day 32](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [LeetCode](https://leetcode.com/) | Find K-th Smallest Pair Distance | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200831| [Day 33](https://leetcode.com/problems/surrounded-regions/) | [LeetCode](https://leetcode.com/) | Surrounded Regions | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 
 ## Collaborator checklist
 * When posing a problem/challenge for the day provide links to problem, online judge/site etc and title, and append :hourglass_flowing_sand:. Try and populate for the problems for the upcoming week in advance. This can very well be a 7 problems a week repository but that is the limit of flexibility - the idea is not to have too much backlog at any time.
