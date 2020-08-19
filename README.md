@@ -26,7 +26,7 @@ A problem a day! Here is an index of all the problems.
 |20200814| [Day 16](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [HackerRank](https://www.hackerrank.com/) | Sam and substrings | :white_check_mark: | :white_check_mark: |
 |20200815| [Day 17](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [LeetCode](https://leetcode.com/) | Max Nesting Depth of 2 VPSs | :white_check_mark: | :hourglass_flowing_sand: |
 |20200816| [Day 18](https://leetcode.com/problems/the-skyline-problem/) | [LeetCode](https://leetcode.com/) | The Skyline Problem | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
-|20200817| [Day 19](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [LeetCode](https://leetcode.com/) | Search a 2D Matrix II | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200817| [Day 19](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [LeetCode](https://leetcode.com/) | Search a 2D Matrix II | :hourglass_flowing_sand: | :white_check_mark: |
 |20200818| [Day 20](https://leetcode.com/problems/path-with-maximum-gold/) | [LeetCode](https://leetcode.com/) | Path With Maximum Gold | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200819| [Day 21](https://leetcode.com/problems/majority-element/) | [LeetCode](https://leetcode.com/) | Majority Element | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200820| [Day 22](https://leetcode.com/problems/recover-binary-search-tree/) | [LeetCode](https://leetcode.com/) | Recover Binary Search Tree | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
