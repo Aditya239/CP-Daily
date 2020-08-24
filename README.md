@@ -32,7 +32,7 @@ A problem a day! Here is an index of all the problems.
 |20200820| [Day 22](https://leetcode.com/problems/recover-binary-search-tree/) | [LeetCode](https://leetcode.com/) | Recover Binary Search Tree | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200821| [Day 23](https://leetcode.com/problems/burst-balloons/) | [LeetCode](https://leetcode.com/) | Burst Balloons | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200822| [Day 24](https://leetcode.com/problems/binary-tree-cameras/) | [LeetCode](https://leetcode.com/) | Binary Tree Cameras | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
-|20200823| [Day 25](https://leetcode.com/problems/k-closest-points-to-origin/) | [LeetCode](https://leetcode.com/) | K Closest Points to Origin | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
+|20200823| [Day 25](https://leetcode.com/problems/k-closest-points-to-origin/) | [LeetCode](https://leetcode.com/) | K Closest Points to Origin | :hourglass_flowing_sand: | :white_check_mark: |
 |20200824| [Day 26](https://leetcode.com/problems/trapping-rain-water/) | [LeetCode](https://leetcode.com/) | Trapping Rain Water | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200825| [Day 27](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [LeetCode](https://leetcode.com/) | Valid Permutations for DI Sequence | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
 |20200826| [Day 28](https://leetcode.com/problems/trapping-rain-water-ii/) | [LeetCode](https://leetcode.com/) | Trapping Rain Water II | :hourglass_flowing_sand: | :hourglass_flowing_sand: |
